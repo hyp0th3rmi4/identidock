@@ -1,5 +1,6 @@
 #!/bin/sh
 
+
 set -e
 
 if [ "$ENV" = 'DEV' ]; then
